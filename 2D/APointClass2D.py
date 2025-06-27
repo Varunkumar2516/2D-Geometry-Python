@@ -1,5 +1,5 @@
 ## ===================================================
-#        DAY 14 - 2D coordinate Geometry :Point Class
+#         2D coordinate Geometry :Point Class
 #                    Menu driven Practice
 #         Creation using class magicfunctions
 # ===================================================
